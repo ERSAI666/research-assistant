@@ -1,0 +1,36 @@
+# 环境变量（含密钥）
+.env
+*.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 日志、生成的报告（保留 README）
+*.log
+*.md
+!README.md
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
